@@ -8,8 +8,8 @@ I was excited to tackle this challenge and I tried to do so in an efficient mann
 
 ## Installation
 
-The working project can be found at:
-The respository is located here:
+The working project can be found at: https://aaronseth-a.github.io/StrongPasswordGenerator/   
+The respository is located here: https://github.com/aaronseth-a/StrongPasswordGenerator    
 
 ## Usage
 
